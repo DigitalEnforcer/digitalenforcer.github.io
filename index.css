@@ -1,0 +1,61 @@
+html {
+  height: 100%;
+}
+header {
+  height: 20%;
+}
+h1 {
+  Color: White;
+  text-shadow: 2px 1px 2px black;
+  text-align: center;
+  font-size: 70;
+}
+h5 {
+  Color: White;
+  Font-style: italic;
+  padding-top: ;
+  font-size: 16;
+  text-align: center;
+}
+
+body {
+  height: 100%;
+  background-color: grey;
+}
+
+header {
+  background: url("https://orig11.deviantart.net/49a1/f/2015/029/3/e/wood_panel_desktop_by_doodler326-d8fu07u.png");
+  padding: 5px;
+  font-size: 22;
+  display: block;
+  }
+
+nav {
+  float: left;
+  Width: 100%;
+  background-color: White;
+}
+nav ul {
+  float: left;
+  border-bottom: black;
+  list-style:none;
+}
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  font-size: 40;
+  height: 15px;
+  padding: 12px 60px 8px 18px;
+  vertical-align: middle;
+}
+
+footer {
+  width: 100%;
+  background-color: black;
+  color: white;
+  clear: both;
+  display: block;
+}
