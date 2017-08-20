@@ -2,7 +2,7 @@ html {
   height: 100%;
 }
 header {
-  height: 20%;
+  height: 25%;
 }
 h1 {
   Color: White;
@@ -25,8 +25,6 @@ body {
 
 header {
   background: url("https://orig11.deviantart.net/49a1/f/2015/029/3/e/wood_panel_desktop_by_doodler326-d8fu07u.png");
-  padding: 5px;
-  font-size: 22;
   display: block;
   }
 
